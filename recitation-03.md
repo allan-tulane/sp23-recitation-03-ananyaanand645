@@ -1,7 +1,7 @@
 # CMPS 2200  Recitation 03
 
-**Name (Team Member 1):**_________________________  
-**Name (Team Member 2):**_________________________
+**Name (Team Member 1):** Ananya Anand  
+**Name (Team Member 2):** Madhangi Krishnan
 
 This recitation includes part of assignment 02. 
 
